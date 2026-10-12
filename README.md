@@ -1,7 +1,5 @@
-[github_readme_file.md](https://github.com/user-attachments/files/33316345/github_readme_file.md)
 # Automated Testing Framework for Social Challenges Platform
 
-![Automation Architecture](https://raw.githubusercontent.com/titirot/automation/main/image_e23d58.jpg)
 
 ## 📌 Project Overview
 This project is an **End-to-End (E2E) Automation Testing Framework** built to validate the core functionality, user flows, and data interactions of a dynamic social challenges and sharing web platform (`http://localhost:4200/`). 
